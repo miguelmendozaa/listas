@@ -1,0 +1,36 @@
+body {
+  padding-left: 5em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: black;
+  font-size: 14;
+  }
+
+   h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+    font-size: 12;
+    color: black;
+    text-align:center;
+  }
+  h2 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+    color: blue;
+    font-size: 10;
+  }
+  h3{
+    background-color: lightblue;
+    color: darkblue;
+  }
+  .importante{
+    color: green;
+    font-size: 15;
+  }
+  #cabecera{
+    color:blueviolet
+  }
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16;
+  }
