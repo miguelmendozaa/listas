@@ -33,3 +33,7 @@ h3 {
     color: rgb(128, 0, 96);
     font-size: 15;
 }
+a:link {
+    color:aliceblue;
+    text-decoration: none;
+}
