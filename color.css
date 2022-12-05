@@ -29,6 +29,16 @@ ol {
     font-size: 10;
 }
 
+p {
+	font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif;
+    color: black;
+    font-size: 12;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
 h3 {
     color: rgb(128, 0, 96);
     font-size: 15;
